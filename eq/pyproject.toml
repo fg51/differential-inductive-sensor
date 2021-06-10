@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "differential-inductive-sensor"
+version = "0.0.0-develop"
+description = ""
+authors = ["kflange <zknsftk1msrk@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+sympy = "^1.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
